@@ -40,4 +40,6 @@
 
 ### 
 
-### :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KevaCG&theme=dark&background=000000)](https://git.io/streak-stats)
+<div aling="center">
+  ### :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KevaCG&theme=dark&background=000000)](https://git.io/streak-    stats)
+</div>
