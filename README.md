@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Kevin and I'm a Student in Software Development, from Colombia</h2>
-
-### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-KevaCG&theme=dark&background=000000)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-KevaCG
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-KevaCG&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
