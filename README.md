@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 2023.<br>📚 I'm currently learning React - NodeJS - VueJS - Astro - NextJS<br>🎯 Goals:<br>Short term: Master the fundamentals of Software Analysis and Development.<br>Medium term: Develop skills such as problem solving, teamwork, and communication.<br>Long term: Become a competent and versatile full-stack developer.<br>🎲 Fun fact: Bugs are like weeds, for every one you pull, two more grow.
+✨ Creating bugs since 2023.<br>📚 I'm currently learning React - generative AI - Laravel - Software engineering<br>🎯 Goals:<br>Short term: Master the fundamentals of Software Analysis and Development.<br>Medium term: Develop skills such as problem solving, teamwork, and communication.<br>Long term: Become a competent and versatile full-stack developer.<br>🎲 Fun fact: Bugs are like weeds, for every one you pull, two more grow.
 
 
 ## 🌐 Socials:
